@@ -14,31 +14,4 @@ Auction to document artifacts that entered auctions and their market values.
 From an analytical perspective, by populating the system with official datasets, decision-making can be supported through intelligent queries such as:
 Analyzing visitor numbers per museum, material distribution in artifacts, average staff age, ranking museums by visitor traffic, and analyzing ticket patterns using CTE and Views.
 The real strength of the project lies in reflecting a realistic model for managing cultural heritage using Relational Database Design, while applying professional database concepts such as Primary Keys, Foreign Keys, Transactions, Aggregations, Views, and CTE.
-If you want, I can rewrite it in a stronger CV style, LinkedIn style, or academic research style.
-
-
-
-لقد اتممت مشروع Egyptian Museums and Archaeological & Art Exhibitions Management System، الذي يعد المشروع الاول من نوعه بلغة SQL، والذي هو عبارة عن نظام قواعد بيانات متكامل صمم ليكون العقل الرقمي لإدارة متاحف مصر بالكامل، والذي يدير دورة حياة التراث المصري داخلها، بداية من لحظة تسجيل الأثر، مرورا بعرضه وصيانته وإعارته، وحتى تتبع الزوار والأنشطة الثقافية المرتبطة به.
-
-فكرة المشروع: 
-ربط كل عناصر المنظومة المتحفية في قاعدة بيانات واحدة مترابطة، ويبدأ النظام بجدول Museums الذي يمثل حجر الأساس، حيث يخزن بيانات كل متحف مثل الموقع، النوع، سنة التأسيس، والموقع الإلكتروني. بعد ذلك يتفرع منه باقي النظام، مما يعكس الطبيعة الحقيقية لإدارة المؤسسات الثقافية.
-
-يركز المشروع على ثلاثة محاور رئيسية:
-التراث المادي عبر جدول Artifacts الذي يسجل تفاصيل القطع الأثرية (المادة، الحالة، النوع).
-
-العرض الثقافي عبر جدول Exhibitions الذي يدير المعارض الزمنية والموضوعية داخل المتاحف.
-
-العنصر البشري عبر جدول Staff الذي يوثق الموظفين، درجاتهم الوظيفية، وخلفياتهم الأكاديمية.
-
-النظام يضيف عمقًا واقعيًا من خلال جداول تشغيلية ذكية مثل:
-
-Artifact_Exhibition لربط القطع بالمعارض وتتبع مدة عرضها.
-Visitors لتحليل سلوك الزوار وتصنيفهم حسب الفئات والتذاكر.
-Loans لتسجيل حركة إعارة القطع بين المؤسسات الثقافية عالميًا.
-Maintenance لمتابعة تاريخ صيانة وترميم كل قطعة أثرية.
-Auction لتوثيق القطع التي دخلت في مزادات وقيمها السوقية.
-
-من الناحية التحليلية، يمكننا من خلال ملئ ذلك المشروع بعدد من البيانات الرسمية ااتخاذ القرار عبر استعلامات ذكية مثل:
-تحليل عدد الزوار لكل متحف، توزيع المواد المستخدمة في القطع الأثرية، متوسط أعمار الموظفين، ترتيب المتاحف حسب الإقبال، وتحليل أنماط التذاكر باستخدام CTE و Views.
-
-قوة المشروع الحقيقية تكمن في أنه يعكس نموذجًا واقعيًا لإدارة التراث الثقافي باستخدام قواعد البيانات العلائقية (Relational Database Design)، مع تطبيق مفاهيم احترافية مثل Primary Keys، Foreign Keys، Transactions، Aggregations، Views، وCTE.
+If you want, I can rewrite it in a stronger CV style, LinkedIn style, or academic research style. 
